@@ -15,7 +15,7 @@ module.exports = {
     infurasep : {
       //infura url example : https://sepolia.infura.io/v3/infura-api
       url: infuraurl,   
-      accounts: [privatekey]
+      accounts: [privatekey] //add metamask private key
     }
   },
   solidity: "0.8.24",
