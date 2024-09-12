@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/akhil/Blockchain/chat-new-sep12/hardhat/contracts/ChatApp.sol": {
-      "lastModificationDate": 1726134978578,
+    "/home/akhil/Blockchain/Decentralized-Discord-clone/hardhat/contracts/ChatApp.sol": {
+      "lastModificationDate": 1726163242609,
       "contentHash": "62773887ee638e6effc9407bce7b20cf",
       "sourceName": "contracts/ChatApp.sol",
       "solcConfig": {

@@ -2,6 +2,7 @@ require ("@nomicfoundation/hardhat-toolbox")
 require("dotenv").config();
 const infuraurl=process.env.infuraurl;
 const privatekey=process.env.metamaskprivatekey;
+const hardhatlocalhost=process.env.hardhatlocalhost;
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
@@ -9,7 +10,7 @@ module.exports = {
   defaultNetwork : "infurasep",
   networks: {
     localhost:  {
-      url: "http://127.0.0.1:8545/"
+      url: hardhatlocalhost
 
     },
     infurasep : {
