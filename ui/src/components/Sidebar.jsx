@@ -13,9 +13,9 @@ const Sidebar = ({ friends, allUsers, onSelectFriend, addFriend, onLogout }) => 
   };
 
   return (
-    <div className="w-64 bg-gray-800 text-white p-4">
+    <div className="w-64 bg-gray-800 text-white p-4 ">
       <h2 className="text-2xl mb-4">Friends</h2>
-      <ul>
+      <ul className="overflow-y-auto">
         {friends.map((friend, index) => (
           <li key={index} className="mb-2 cursor-pointer" onClick={() => onSelectFriend(friend)}>
             {friend.name}
@@ -29,14 +29,14 @@ const Sidebar = ({ friends, allUsers, onSelectFriend, addFriend, onLogout }) => 
         placeholder="Friend Address"
         value={friendAddress}
         onChange={(e) => setFriendAddress(e.target.value)}
-        className="w-full mt-2 p-2 text-black"
+        className="w-full mt-2 p-2 text-white border"
       />
       <input
         type="text"
         placeholder="Friend Name"
         value={friendName}
         onChange={(e) => setFriendName(e.target.value)}
-        className="w-full mt-2 p-2 text-black"
+        className="w-full mt-2 p-2 text-white border"
       />
       <button
         onClick={handleAddFriend}

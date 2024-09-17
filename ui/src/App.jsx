@@ -5,6 +5,7 @@ import Chat from "./components/Chat";
 import Sidebar from "./components/Sidebar";
 import CreateAccount from "./components/CreateAccount";
 import ChatAppABI from "./scdata/ChatApp.json"; // Import ABI of your contract
+import './App.css'
 
 const contractAddress = "0xae1E5A2ae0796f861C08cD6C774aC0d136C8500E"; // Replace with your deployed contract address
 
@@ -162,7 +163,7 @@ function App() {
   };
 
   return (
-    <div className="flex h-screen">
+    <div className="flex h-screen bg-gray-800">
       {!currentAccount ? (
         <div className="flex justify-center items-center w-full h-full">
           <button
@@ -184,7 +185,7 @@ function App() {
                 onLogout={handleLogout}
               />
               <div className="flex-grow">
-                <div className="bg-gray-100 p-4 shadow-md">
+                <div className="text-white p-4 shadow-md">
                   <h1 className="text-xl">Logged in as: {userName} ({currentAccount})</h1>
                 </div>
                 {selectedFriend ? (
