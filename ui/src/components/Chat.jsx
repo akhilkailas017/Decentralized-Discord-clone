@@ -26,7 +26,7 @@ const Chat = ({ friend, messages, sendMessage }) => {
       <div className="mt-4 flex">
         <input
           type="text"
-          className="flex-grow border rounded px-4 py-2 text-white"
+          className="flex-grow rounded px-4 py-2 text-white bg-black"
           placeholder="Type a message..."
           value={newMessage}
           onChange={(e) => setNewMessage(e.target.value)}

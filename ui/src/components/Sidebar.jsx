@@ -29,14 +29,14 @@ const Sidebar = ({ friends, allUsers, onSelectFriend, addFriend, onLogout }) => 
         placeholder="Friend Address"
         value={friendAddress}
         onChange={(e) => setFriendAddress(e.target.value)}
-        className="w-full mt-2 p-2 text-white border"
+        className="w-full mt-2 p-2 text-white bg-black"
       />
       <input
         type="text"
         placeholder="Friend Name"
         value={friendName}
         onChange={(e) => setFriendName(e.target.value)}
-        className="w-full mt-2 p-2 text-white border"
+        className="w-full mt-2 p-2 text-white bg-black"
       />
       <button
         onClick={handleAddFriend}
