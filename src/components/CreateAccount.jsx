@@ -14,11 +14,11 @@ const CreateAccount = ({ onCreateAccount }) => {
 
   return (
     <div className="flex flex-col items-center justify-center h-full">
-      <h2 className="text-2xl font-bold mb-4">Create Account</h2>
+      <h2 className="text-2xl font-bold mb-4 text-white text">Create Account</h2>
       <form onSubmit={handleSubmit} className="flex flex-col items-center">
         <input
           type="text"
-          className="bg-black px-4 py-2 mb-4 text-white"
+          className="bg-black px-4 py-2 mb-4 ml-3 text-white text-center"
           placeholder="Enter your username"
           value={username}
           onChange={(e) => setUsername(e.target.value)}
