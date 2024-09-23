@@ -12,12 +12,18 @@ Users can register with just a username and their MetaMask wallet, adding friend
 - **Friend System**: Add friends using their username and wallet address. Your friend list updates in real-time in the sidebar.
 - **Decentralized Messaging**: Select a friend from your sidebar and start chatting instantly, with every message stored on the blockchain.
 - **Blockchain Backend**: Leveraging Solidity smart contracts for all chat data storage.
+
+---
   
-### Tech Stack:
-- **Smart Contracts**: Solidity
-- **Deployment & Testing**: Hardhat
-- **Frontend**: Vite + React + Tailwind CSS
-- **Wallet Integration**: MetaMask
+## 🛠️ **Technologies Used**
+
+| **Tech**            | **Description**                                        |
+|---------------------|--------------------------------------------------------|
+| Solidity            | Smart contract development for the Ethereum blockchain. |
+| Hardhat             | Deployment and testing framework for Solidity.         |
+| Vite + React        | Fast frontend development with Vite and React.         |
+| Tailwind CSS        | Modern CSS framework for responsive and stylish UI.    |
+| MetaMask            | Wallet integration for Ethereum-based transactions.    |
 
 ---
 
@@ -101,18 +107,6 @@ This project combines blockchain security with real-time decentralized messaging
 - 💬 **Secure Messaging**: Your chats are forever stored on a public blockchain, ensuring your conversations are immutable and transparent.
 - 🔗 **Blockchain Integration**: Powered by Ethereum and stored securely on the blockchain via MetaMask wallet.
 - 📲 **Responsive Design**: Built using React and Tailwind CSS for a seamless user experience across all devices.
-
----
-
-## 🛠️ **Technologies Used**
-
-| **Tech**            | **Description**                                        |
-|---------------------|--------------------------------------------------------|
-| Solidity            | Smart contract development for the Ethereum blockchain. |
-| Hardhat             | Deployment and testing framework for Solidity.         |
-| Vite + React        | Fast frontend development with Vite and React.         |
-| Tailwind CSS        | Modern CSS framework for responsive and stylish UI.    |
-| MetaMask            | Wallet integration for Ethereum-based transactions.    |
 
 ---
 
