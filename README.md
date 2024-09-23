@@ -27,7 +27,7 @@ Users can register with just a username and their MetaMask wallet, adding friend
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/akhilkailas017/Decentralized-Discord-clone.git
     ```
    
 2. **Navigate to the project directory**:
@@ -57,7 +57,7 @@ If you'd like to redeploy the smart contract, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/akhilkailas017/Decentralized-Discord-clone.git
     ```
 
 2. **Navigate to the Hardhat folder**:
