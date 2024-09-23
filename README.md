@@ -14,7 +14,7 @@ Users can register with just a username and their MetaMask wallet, adding friend
 - **Blockchain Backend**: Leveraging Solidity smart contracts for all chat data storage.
 
 ---
-  
+
 ## 🛠️ **Technologies Used**
 
 | **Tech**            | **Description**                                        |
@@ -113,5 +113,3 @@ This project combines blockchain security with real-time decentralized messaging
 ## 💻 **Conclusion**
 
 **Decentralized Discord Clone** is a groundbreaking solution for peer-to-peer communication, blending the power of blockchain with real-time messaging. Follow the steps above to explore, modify, and deploy your very own decentralized chat platform!
-
-Let’s build a decentralized future, one chat at a time! 🚀
