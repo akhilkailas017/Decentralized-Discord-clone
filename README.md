@@ -1,4 +1,4 @@
-# 🛠️ **Decentralized Discord Clone** 🌐
+# 🗨️ **Decentralized Discord Clone** 🌐
 
 ### A Next-Gen Decentralized Chat Application
 Welcome to **Decentralized Discord Clone**, a cutting-edge web app for decentralized person-to-person chatting. In this app, chats are securely stored on the public blockchain, ensuring transparency, privacy, and ownership of your data.
