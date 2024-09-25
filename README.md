@@ -110,6 +110,12 @@ This project combines blockchain security with real-time decentralized messaging
 
 ---
 
+## **Project Demo Video**
+
+[![Decentralized Discord Clone](https://img.youtube.com/vi/_G0vHbk1Uq0/0.jpg)](https://www.youtube.com/watch?v=_G0vHbk1Uq0)
+
+---
+
 ## 💻 **Conclusion**
 
 **Decentralized Discord Clone** is a groundbreaking solution for peer-to-peer communication, blending the power of blockchain with real-time messaging. Follow the steps above to explore, modify, and deploy your very own decentralized chat platform!
