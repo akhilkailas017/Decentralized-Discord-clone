@@ -110,7 +110,7 @@ This project combines blockchain security with real-time decentralized messaging
 
 ---
 
-## 📽️**Project Demo Video**
+## 📽️ **Project Demo Video**
 
 [![Decentralized Discord Clone](https://img.youtube.com/vi/_G0vHbk1Uq0/0.jpg)](https://www.youtube.com/watch?v=_G0vHbk1Uq0)
 
