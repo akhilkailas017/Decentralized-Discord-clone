@@ -120,7 +120,7 @@ This project combines blockchain security with real-time decentralized messaging
 
 Watch this quick demo to understand how the Decentralized Discord Clone works in action:
 
-[![Decentralized Discord Clone](https://img.youtube.com/vi/_G0vHbk1Uq0D/maxresdefault.jpg)](https://www.youtube.com/watch?v=_G0vHbk1Uq0)
+[![Decentralized Discord Clone](https://img.youtube.com/vi/_G0vHbk1Uq0/0.jpg)](https://www.youtube.com/watch?v=_G0vHbk1Uq0)
 
 Click the image to watch on YouTube, or [watch directly here](https://www.youtube.com/watch?v=_G0vHbk1Uq0).
 
